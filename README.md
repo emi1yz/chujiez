@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Chujie (Emily) Zhang 张楚婕
 
 You can use the [editor on GitHub](https://github.com/emi1yz/chujiez/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
